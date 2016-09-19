@@ -1,4 +1,4 @@
-package DifferentialSolver;
+package differentialSolver;
 
 import java.util.ArrayList;
 

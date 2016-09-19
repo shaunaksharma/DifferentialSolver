@@ -1,4 +1,4 @@
-package DifferentialSolver;
+package differentialSolver;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
